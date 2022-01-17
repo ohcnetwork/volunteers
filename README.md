@@ -10,6 +10,7 @@ CoronaSafe Network is a free and open-source disaster management system that is 
 - [Vignesh Hari](./vigneshhari)
 - [Gigin](./gigin)
 - [Arihant Hirawat](./arihant)
+- [Swapnil Jagtap](./developedbysj)
 
 # Add Your Bio
 
